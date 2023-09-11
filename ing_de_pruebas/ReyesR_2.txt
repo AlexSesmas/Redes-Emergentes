@@ -1,0 +1,38 @@
+La pruba es el proceso de ejecucion de un programa con la intención de encontrar errores (DEFINICION DE PRUEBAS)
+
+OBJETIVO (definición)
+
+Aportar calidad al producto que se esta desarrrollando
+
+Ciclo de vida de un proyecto
+
+analisis,diseño, desarrollo, pruebas, implementación y mantenimiento.
+
+REQUERIMIENTO
+
+Es una condición o capacidad que debe estar presente en un sistema para satisfacer un contrato, estandar, especificación u otro documento formal.
+
+CARACTERISTICAS DE PRUBAS
+
+Adecuación funcional, eficiencia de rendimiento y compatibilidad
+
+USABILIDAD: Es la medida en el que el producto de software puede ser entendido, aprendidio, usado y resultar ayractivo para el usuario.
+
+FIABILIDAD: El grado en el que un sisitema o componente realiza funciones especificas bajo unas condiciones durante un periodo de tiempo determinado.
+
+SEGURIDAD: Grado rn rl que la información y los datos estan protegidos para que personas no puedan leerlos, modificarlos y no negar acceso autorizado. 
+
+MANTENIBILIDAD: Capacidad del producto para ser modificado efectiva y eficientemente debido a necesidades evolutivas o correctivas.
+
+PORTABILIDAD: Grado en el que un sistema puede ser transferido de forma efectiva y eficiente de un entorno 
+
+
+ERROR, DEFECTO Y FALLO
+
+ERRO: Esta provicado por la accion humana ejem: el error lo provocara el desarrrollador que realizara un incorrecta interpretación de un metodo del programa que producirá un resultado no esperado.
+
+DEFECTO: Provocado por un error de implementación, por ejemplo. el haber utilizado el operador "x+y>2´ en ves de x+y>2"
+
+
+FALLO: al jejcutar el programa con un defecto obtendremos resultados no deseados por ejemplo. cuando el resultado de la suma de los dos componentes fuese igual  no obtendriamos los mismos resultados al compararlos con las sentencias indicadas por el cliente
+
